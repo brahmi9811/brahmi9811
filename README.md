@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I’m a Cloud & Backend Engineer with 4+ years of experience building **enterprise-scale integration systems on Azure**.
+I’m a Cloud Engineer with 4+ years of experience building **enterprise-scale integration systems on Azure**.
 
 - ☁️ Designed and deployed **scalable cloud integrations** using Azure Functions, Logic Apps, Service Bus & API Management  
 - ⚡ Improved system reliability, reduced downtime, and optimized performance in **production environments**  
