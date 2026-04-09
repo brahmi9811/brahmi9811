@@ -33,12 +33,6 @@ Cloud Engineer with 4+ years of experience building **enterprise-scale Azure int
 - 🟦 Microsoft Certified: Azure Fundamentals (AZ-900)  
 - 🟦 Microsoft Certified: Azure Data Fundamentals (DP-900)  
 - 🟦 Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
-## 🚀 Featured Experience
-
-| Company | Role | Key Impact |
-|--------|------|------------|
-| **Deloitte** | Azure Integration Developer (Cloud Engineering) | • Built enterprise integrations (Workday, SAP) <br> • Improved deployment speed by **30% (CI/CD)** <br> • Reduced incident response time by **25% (monitoring)** <br> • Ensured **99% system reliability** |
-| **Capgemini** | Software Engineer (Cloud Engineering) | • Designed **scalable B2B integrations & architectures** <br> • Reduced dev effort by **30% (reusable components)** <br> • Improved processing efficiency by **15%** <br> • Mentored developers & enforced best practices |
 
 ---
 
