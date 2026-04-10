@@ -18,7 +18,8 @@ Cloud Engineer with 4+ years of experience building **enterprise-scale Azure int
 
 ##### 💡 I enjoy solving complex system problems and turning them into clean, scalable architectures.
 
-### 🔗 Connect with Me On  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brahmi-dalvi)
+### 🔗 Connect with Me On  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brahmi-dalvi)
 
 ---
 ## 💻 Tech Stack
