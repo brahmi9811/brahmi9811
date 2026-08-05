@@ -42,12 +42,6 @@ Cloud Engineer with 4+ years of experience building **enterprise-scale Azure int
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=brahmi9811&theme=radical)
 ---
 
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brahmi9811&theme=react-dark)
-
----
-
 
 ## ⚡ Fun Fact
 
