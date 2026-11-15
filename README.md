@@ -1,4 +1,4 @@
-# Hi, I'm Brahmi Dalvi 👋
+# Hi, I'm Brahmi Bhalchandra Dalvi 👋
 🎓 MS Computer Science @ Stevens Institute of Technology  
 💼 Ex-Deloitte | Ex-Capgemini (4+ years experience)  
 ☁️ Azure Integration & Cloud Engineer  
